@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Beta discoverability control only; robots.txt does NOT protect private data.

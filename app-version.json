@@ -1,0 +1,5 @@
+{
+  "version": "0.7.3",
+  "channel": "beta-hosting-ready",
+  "notes": "HTTPS beta deployment readiness, hosted smoke check, security headers, official LUGHAH branding."
+}
